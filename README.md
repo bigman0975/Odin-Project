@@ -1,3 +1,2 @@
 # Odin-Project
-My first github repo!
-Hello Odin!
+This project is a recipe site and it showcases my skills in html thus far. 
